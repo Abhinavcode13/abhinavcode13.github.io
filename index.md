@@ -19,7 +19,7 @@ Email ID: abhinavcoder131 [at] gmail [dot] com
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Feb 2024:</b></td><td>Started working as a summer intern at iTie Knowledge Solutions in Bangalore.</td></tr>
-<tr><td><b>Mar 2023:</b></td><td>Started working as a Research & Development Intern at Samsung R&D Institute India.</td></tr>
+<tr><td><b>Feb 2024:</b></td><td>Started working as a Research & Development Intern at Samsung R&D Institute India.</td></tr>
+<tr><td><b>Mar 2023:</b></td><td>Started working as a summer intern at iTie Knowledge Solutions in Bangalore.</td></tr>
 </table>
 </div>
