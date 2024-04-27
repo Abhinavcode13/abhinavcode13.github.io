@@ -6,7 +6,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.jpg">
 
-Hello, I am Abhinav Kumar. I'm a Prefinal year student at BMS College of Engineering in Bangalore, studying computer science and engineering. Along with my strong Linux system administration skills, I have expertise running cloud services on AWS and GCP. I've built CI/CD pipelines with Jenkins and am adept in containerization with Docker. I'm also skilled at designing responsive web apps utilising Tailwind CSS and React.
+Hello, I am Abhinav Kumar. I'm a Prefinal year student at [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), studying computer science and engineering. Along with my strong Linux system administration skills, I have expertise running cloud services on AWS and GCP. I've built CI/CD pipelines with Jenkins and am adept in containerization with Docker. I'm also skilled at designing responsive web apps utilising Tailwind CSS and React.
 
 You can find my research work and publications under the [Research]({{ site.url }}/research) tab.
 
@@ -19,7 +19,8 @@ Email ID: abhinavcoder131 [at] gmail [dot] com
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Feb 2024:</b></td><td>Started working as a Research & Development Intern at Samsung R&D Institute India.</td></tr>
-<tr><td><b>Mar 2023:</b></td><td>Started working as a summer intern at iTie Knowledge Solutions in Bangalore.</td></tr>
+<tr><td><b>Feb 2024:</b></td><td>Started working as a Research & Development Intern at <a href='https://research.samsung.com/sri-b'>Samsung R&D Institute India</a>.</td></tr>
+<tr><td><b>Mar 2023:</b></td><td>Started working as a Summer Intern at <a href='https://itie.in/'>iTie Knowledge Solutions in Bangalore</a>.</td></tr>
+<tr><td><b>Nov 2023:</b></td><td>Secured Global Rank 14th in <a href='https://gssoc.girlscript.tech/'>Girlscript summer of Code 2023</a> program.</td></tr>
 </table>
 </div>
