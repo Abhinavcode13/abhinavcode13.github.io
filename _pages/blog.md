@@ -1,8 +1,8 @@
 ---
 layout: page
-title: blog
+title: Blog
 permalink: /blog/
 order: 2
 ---
 
-Test
+For detailed information on the enhancements I made to PolyPhy, visit: [PolyPhy Hub Enhancements](https://medium.com/@abhinavkumar130503/polyphy-hub-enhancements-217e3f61b837).
