@@ -19,6 +19,7 @@ Email ID: abhinavcoder131 [at] gmail [dot] com
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>June 2024:</b></td><td>Started working as a C4GT '24 contributor at the <a href='https://mifos.org/'>Mifos Initiative</a>.</td></tr>
 <tr><td><b>Feb 2024:</b></td><td>Started working on LLM Action Response Reasoning as a Research & Development Intern at <a href='https://research.samsung.com/sri-b'>Samsung R&D Institute India</a>.</td></tr>
 <tr><td><b>Jan 2024:</b></td><td>Ranked 6th in the Bengaluru region for <a href='https://itie.in/'>TCS CodeVita XI</a>.</td></tr>
 <tr><td><b>Nov 2023:</b></td><td>Secured Global Rank 14th in <a href='https://gssoc.girlscript.tech/'>Girlscript summer of Code 2023</a> program.</td></tr>
