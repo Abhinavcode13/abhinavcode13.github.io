@@ -5,8 +5,6 @@ date:   2024-05-29 00:39:55 +0530
 tags: c4gt
 ---
 
-
-
 This post mostly discusses the Code for GovTech initiative, going over my process of applying for and developing my proposal for C4GT ‘24. It also talks about the program’s affiliate organization, which I selected to work with.
 
 ## Code 4 GovTech
