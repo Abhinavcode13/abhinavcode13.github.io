@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C4GT '24 with Mifos Initiative"
-date:   2024-05-29 00:39:55 +0530
+date:   2018-05-03 12:34:27 +01:30
 tags: c4gt
 ---
 
