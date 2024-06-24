@@ -9,6 +9,3 @@ Outlining my non-published projects here (open source contributions, course rese
 
 #### **Other Research (Course Projects)**
 
-[LLM based Lida Visualization Application](https://github.com/Abhinavcode13/lida_visualizationLLM_streamlitapp): Automatic Generation of Visualizations and Infographics with LLMs and Streamlit for your customized CSV data.
-
-[FAANG Stock Dip Notification](https://github.com/Abhinavcode13/FAANG_Stock_Dip_Notification): Implemented seamless stock dip notifications using AWS Lambda, CloudWatch, and SES, ensuring efficient automation and secure delivery.
