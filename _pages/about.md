@@ -15,6 +15,6 @@ The organisations, institutes, and programs I am currently working for (or under
     <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy%20logo.png" alt="Polyphy Logo" style="display: inline-block; margin: 10px; width: 300px; height: auto;" />
 </div>
 
-1. [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to underserved communities, enabling microfinance institutions and fintechs to deliver affordable and innovative *financial* products. 
+1. [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to **underserved communities**, enabling **microfinance** institutions and fintechs to deliver affordable and innovative **financial products**. 
 
-2. [PolyPhy](https://github.com/PolyPhyHub): **PolyPhy** is an *unconventional* toolkit for reconstructing *continuous networks* out of sparse 2D or 3D data. Such data can be defined as collections of discrete points, or a continuous sparse scalar field. PolyPhy produces a *scalar density* field that defines the recovered network structure.
+2. [PolyPhy](https://github.com/PolyPhyHub): **PolyPhy** is an *unconventional* toolkit for reconstructing **continuous networks** out of sparse 2D or 3D data. Such data can be defined as collections of discrete points, or a continuous sparse scalar field. PolyPhy produces a **scalar density** field that defines the recovered network structure.
