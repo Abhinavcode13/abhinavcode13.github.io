@@ -11,8 +11,9 @@ I am Abhinav Kumar. I'm a Prefinal year student at BMS College of Engineering in
 The organisations, institutes, and programs I am currently working for (or under/on), or have worked for in the past.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Mifos.png" alt="Mifos Initiative" style="display: inline-block; margin: 10px; width: 300px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy%20logo.png" alt="Polyphy Logo" style="display: inline-block; margin: 10px; width: 300px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Mifos.png" alt="Mifos Initiative" style="display: inline-block; margin: 10px; width: 200px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy%20logo.png" alt="Polyphy Logo" style="display: inline-block; margin: 5px; width: 200px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/OpenMRS.png" alt="OpenMRS" style="display: inline-block; margin: 10px; width: 200px; height: auto;" />
 </div>
 
 1. [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to **underserved communities**, enabling **microfinance** institutions and fintechs to deliver affordable and innovative **financial products**. 
