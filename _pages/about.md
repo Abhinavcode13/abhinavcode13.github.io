@@ -18,4 +18,6 @@ The organisations, institutes, and programs I am currently working for (or under
 
 1. [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to **underserved communities**, enabling **microfinance** institutions and fintechs to deliver affordable and innovative **financial products**. 
 
-2. [PolyPhy](https://github.com/PolyPhyHub): **PolyPhy** is an *unconventional* toolkit for reconstructing **continuous networks** out of sparse 2D or 3D data. Such data can be defined as collections of discrete points, or a continuous sparse scalar field. PolyPhy produces a **scalar density** field that defines the recovered network structure.
+2. [PolyPhy](https://polyphy.io/): **PolyPhy** is an *unconventional* toolkit for reconstructing **continuous networks** out of sparse 2D or 3D data. Such data can be defined as collections of discrete points, or a continuous sparse scalar field. PolyPhy produces a **scalar density** field that defines the recovered network structure.
+
+3. [OpenMRS](https://openmrs.org/): **OpenMRS** is an open-source electronic **medical record system** platform aimed at improving healthcare delivery in **resource-constrained** environments. It provides a customizable and scalable solution for managing patient data and supporting **clinical care**.
