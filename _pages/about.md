@@ -28,3 +28,9 @@ The organisations, institutes, and programs I am currently working for (or under
 2. [PolyPhy](https://polyphy.io/): **PolyPhy** is an *unconventional* toolkit for reconstructing **continuous networks** out of sparse 2D or 3D data. Such data can be defined as collections of discrete points, or a continuous sparse scalar field. PolyPhy produces a **scalar density** field that defines the recovered network structure.
 
 3. [OpenMRS](https://openmrs.org/): **OpenMRS** is an open-source electronic **medical record system** platform aimed at improving healthcare delivery in **resource-constrained** environments. It provides a customizable and scalable solution for managing patient data and supporting **clinical care**.
+
+4. [P4 org](https://p4.org/): P4 is a *domain-specific language* designed for programming **network data planes**, enabling developers and network engineers to specify how packets are processed by devices like **switches** and **routers**. By using P4, new network features and behaviors can be implemented and updated rapidly, bypassing the traditionally slow, **vendor-controlled** feature rollout process.
+
+5. [Itie Knowlegde Solutions](https://itie.in/): itie Knowledge Solutions provides advanced **R&D**, software development, and training solutions to industries and **educational institutions** worldwide founded by IITains.
+
+6. [Samsung Research](https://research.samsung.com/sri-b): Samsung R&D Institute India-Bangalore (SRI-B) is the **largest R&D Center** outside of South Korea and a key **innovation hub** in the Samsung group. With the best of talent from India and overseas, our focus is on creating **cutting edge technologies** across multiple areas of Samsung’s business, that **transform experiences** of users both globally, as well as in local markets. 
