@@ -12,14 +12,14 @@ The organisations, institutes, and programs I am currently working for (or under
 
 <div style="text-align: center;">
     <div style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Mifos.png" alt="Mifos Initiative" style="margin: 10px; width: 150px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy%20logo.png" alt="Polyphy" style="margin: 10px; width: 150px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/OpenMRS.png" alt="OpenMRS" style="margin: 10px; width: 150px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Mifos.png" alt="Mifos Initiative" style="margin: 10px; width: 200px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy%20logo.png" alt="Polyphy" style="margin: 10px; width: 200px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/OpenMRS.png" alt="OpenMRS" style="margin: 10px; width: 200px; height: auto;" />
     </div>
     <div style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/P4%20Org.png" alt="P4 Org" style="margin: 10px; width: 150px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/itie.png" alt="itie knowledge solutions" style="margin: 10px; width: 150px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Samsung.png" alt="Samsung Research" style="margin: 10px; width: 150px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/P4%20Org.png" alt="P4 Org" style="margin: 10px; width: 200px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/itie.png" alt="itie knowledge solutions" style="margin: 10px; width: 200px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Samsung.png" alt="Samsung Research" style="margin: 10px; width: 200px; height: auto;" />
     </div>
 </div>
 
