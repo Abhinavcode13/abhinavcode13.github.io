@@ -14,7 +14,7 @@ The organisations, institutes, and programs I am currently working for (or under
 <div style="text-align: center;">
     <div style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Mifos.png" alt="Mifos Initiative" style="margin: 10px; width: 200px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy%20logo.png" alt="Polyphy" style="margin: 10px; width: 200px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy-logo-svg.svg" alt="Polyphy" style="margin: 10px; width: 200px; height: auto;" />
         <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/OpenMRS.png" alt="OpenMRS" style="margin: 10px; width: 200px; height: auto;" />
     </div>
     <div style="display: inline-block;">
