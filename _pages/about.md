@@ -8,9 +8,8 @@ order: 1
 Hello everyone!
 I am Abhinav Kumar. I'm a Prefinal year student at BMS College of Engineering in Bangalore, studying computer science and engineering.
 
+## Current and past affiliations
 The organisations, institutes, and programs I am currently working for (or under/on), or have worked for in the past.
-
-
 
 <div style="text-align: center;">
     <div style="display: inline-block;">
