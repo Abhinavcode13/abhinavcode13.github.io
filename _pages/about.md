@@ -25,7 +25,7 @@ The organisations, institutes, and programs I am currently working for (or under
     </div>
 </div>
 
-
+---
 Software Engineer Intern | Mountain View, California, United States - Remote
 
 [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to **underserved communities**, enabling **microfinance** institutions and fintechs to deliver affordable and innovative **financial products**. 
