@@ -11,19 +11,6 @@ I am Abhinav Kumar. I'm a Prefinal year student at BMS College of Engineering in
 ## Current and past affiliations
 The organisations, institutes, and programs I am currently working for (or under/on), or have worked for in the past.
 
-<div style="text-align: center;">
-    <div style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Mifos.png" alt="Mifos Initiative" style="margin: 10px; width: 220px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Polyphy-logo-svg.svg" alt="Polyphy" style="margin: 10px; width: 220px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/OpenMRS.png" alt="OpenMRS" style="margin: 10px; width: 220px; height: auto;" />
-    </div>
-    <div style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/P4%20Org.png" alt="P4 Org" style="margin: 10px; width: 220px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/itie.png" alt="itie knowledge solutions" style="margin: 10px; width: 220px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Samsung research.png" alt="Samsung Research" style="margin: 10px; width: 220px; height: auto;" />
-    </div>
-</div>
-
 ---
 Software Engineer Intern | Mountain View, California, United States - Remote
 
