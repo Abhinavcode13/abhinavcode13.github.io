@@ -29,6 +29,8 @@ Software Engineer Intern | Mountain View, California, United States - Remote
 
 [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to **underserved communities**, enabling **microfinance** institutions and fintechs to deliver affordable and innovative **financial products**. 
 
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,java,ubuntu&perline=5)](https://skillicons.dev)
+
 ---
 Python Developer | University of California, Santa Cruz - Remote
 
