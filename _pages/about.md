@@ -20,7 +20,7 @@ The organisations, institutes, and programs I am currently working for (or under
     <div style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/P4%20Org.png" alt="P4 Org" style="margin: 10px; width: 220px; height: auto;" />
         <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/itie.png" alt="itie knowledge solutions" style="margin: 10px; width: 220px; height: auto;" />
-        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Samsung.png" alt="Samsung Research" style="margin: 10px; width: 220px; height: auto;" />
+        <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/orgs/Samsung research.png" alt="Samsung Research" style="margin: 10px; width: 220px; height: auto;" />
     </div>
 </div>
 
