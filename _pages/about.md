@@ -11,6 +11,8 @@ I am Abhinav Kumar. I'm a Prefinal year student at BMS College of Engineering in
 ## Current and past affiliations
 The organisations, institutes, and programs I am currently working for (or under/on), or have worked for in the past.
 
+<img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/Worked%20orgs.png" alt="Worked Organizations">
+
 ---
 Software Engineer Intern | Mountain View, California, United States - Remote
 
