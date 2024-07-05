@@ -20,10 +20,7 @@ Software Engineer Intern | Mountain View, California, United States - Remote
 
 Experience
 
-• Set up Mojafos from GitHub and explored Mifos/Fineract, Mojaloop vNext, and PHEE components
-• Deployed and reported on the Mojaloop connector, configured Renovate, and re-deployed Mojafos for Mojaloop vNext Beta1
-• Updated showUsage to reflect the latest features and deployed PHEE from a local Helm chart
-• Researched and implemented memory footprint reduction strategies for Mojafos and PHEE infrastructure
+I set up Mojafos from GitHub and explored the Mifos/Fineract, Mojaloop vNext, and PHEE components, deploying and reporting on the Mojaloop connector. I configured Renovate and re-deployed Mojafos for Mojaloop vNext Beta1. Additionally, I updated showUsage to reflect the latest features and deployed PHEE from a local Helm chart. Furthermore, I researched and implemented strategies to reduce the memory footprint for both Mojafos and the PHEE infrastructure.
 
 ---
 Python Developer | University of California, Santa Cruz - Remote
@@ -32,9 +29,7 @@ Python Developer | University of California, Santa Cruz - Remote
 
 Experience
 
-• Developed new features and fixed existing issues, such as adding metadata saving in PPSimulation_2DContinuous, enhancing the 3D_discrete simulation GUI, and fixing assertion errors
-• Managed CI configurations and updates, including the removal of macOS-11 from the CI matrix and updating Python versions in configuration files
-• Refactored code for improved performance and maintainability, such as type conversion and bounds check removal in data_step_2D_discrete and the restructured images for 2D discrete pipelines.
+I developed new features and fixed existing issues, including adding metadata saving in PPSimulation_2DContinuous, enhancing the 3D_discrete simulation GUI, and fixing assertion errors. I managed CI configurations and updates, such as removing macOS-11 from the CI matrix and updating Python versions in configuration files. Additionally, I refactored code for improved performance and maintainability by implementing type conversion and bounds check removal in data_step_2D_discrete and restructuring images for 2D discrete pipelines.
 
 ---
 Technical Writer | Carmel, Indiana - Remote
