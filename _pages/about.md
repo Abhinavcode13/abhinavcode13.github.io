@@ -18,10 +18,23 @@ Software Engineer Intern | Mountain View, California, United States - Remote
 
 [Mifos Initiative](https://mifos.org/): **Mifos** is an open-source platform providing financial services to **underserved communities**, enabling **microfinance** institutions and fintechs to deliver affordable and innovative **financial products**. 
 
+Experience
+
+• Set up Mojafos from GitHub and explored Mifos/Fineract, Mojaloop vNext, and PHEE components
+• Deployed and reported on the Mojaloop connector, configured Renovate, and re-deployed Mojafos for Mojaloop vNext Beta1
+• Updated showUsage to reflect the latest features and deployed PHEE from a local Helm chart
+• Researched and implemented memory footprint reduction strategies for Mojafos and PHEE infrastructure
+
 ---
 Python Developer | University of California, Santa Cruz - Remote
 
 [PolyPhy](https://polyphy.io/): **PolyPhy** is an *unconventional* toolkit for reconstructing **continuous networks** out of sparse 2D or 3D data. Such data can be defined as collections of discrete points, or a continuous sparse scalar field. PolyPhy produces a **scalar density** field that defines the recovered network structure.
+
+Experience
+
+• Developed new features and fixed existing issues, such as adding metadata saving in PPSimulation_2DContinuous, enhancing the 3D_discrete simulation GUI, and fixing assertion errors
+• Managed CI configurations and updates, including the removal of macOS-11 from the CI matrix and updating Python versions in configuration files
+• Refactored code for improved performance and maintainability, such as type conversion and bounds check removal in data_step_2D_discrete and the restructured images for 2D discrete pipelines.
 
 ---
 Technical Writer | Carmel, Indiana - Remote
