@@ -29,9 +29,23 @@ Python Developer | University of California, Santa Cruz - Remote
 
 Experience
 
-<img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/Polyphystory.png" alt="Polyphystory Image">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Abhinavcode13/abhinavcode13.github.io/main/assets/Polyphystory.png" alt="Polyphystory Image">
+    </td>
+  </tr>
+</table>
 
 I developed new features and fixed existing issues, including adding metadata saving in PPSimulation_2DContinuous, enhancing the 3D_discrete simulation GUI, and fixing assertion errors. I managed CI configurations and updates, such as removing macOS-11 from the CI matrix and updating Python versions in configuration files. Additionally, I refactored code for improved performance and maintainability by implementing type conversion and bounds check removal in data_step_2D_discrete and restructuring images for 2D discrete pipelines.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Abhinavcode13/abhinavcode13.github.io/assets/126642111/a50461dc-7aa3-4d6d-a98c-c74354b83153" alt="Polyphy-2">
+    </td>
+  </tr>
+</table>
 
 ---
 Technical Writer | Carmel, Indiana - Remote
