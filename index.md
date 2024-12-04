@@ -6,7 +6,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.jpg">
 
-Hello, I am Abhinav Kumar. I'm a Final year student at [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), studying computer science and engineering. 
+Hello, I am Abhinav Kumar. I'm a final-year student at [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), studying computer science and engineering. Nowadays, learning microservices and go.
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf)
 Email ID: abhinavcoder131 [at] gmail [dot] com
