@@ -6,11 +6,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.jpg">
 
-Hello, I am Abhinav Kumar. I'm a Prefinal year student at [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), studying computer science and engineering. Along with my strong Linux system administration skills, I have expertise running cloud services on AWS and GCP. I've built CI/CD pipelines with Jenkins and am adept in containerization with Docker. I'm also skilled at designing responsive web apps utilising Tailwind CSS and React.
+Hello, I am Abhinav Kumar. I'm a Final year student at [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), studying computer science and engineering. 
 
-You can find my research work and publications under the [Research]({{ site.url }}/research) tab.
-
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=GqNauasAAAAJ&hl=en)<br>
+[CV / Resume]({{ site.url }}/assets/cv.pdf)
 Email ID: abhinavcoder131 [at] gmail [dot] com
 
 #### <b>Updates</b>
