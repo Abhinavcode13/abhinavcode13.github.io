@@ -8,7 +8,7 @@ layout: page
 
 Hello, I am Abhinav Kumar. I'm a graduate from [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), with a degree in computer science and engineering. Nowadays, learning microservices and go.
 
-[CV / Resume]({{ site.url }}/assets/Abhinav_CV_25.pdf)
+[CV / Resume]({{ site.url }}/assets/cv.pdf)
 Email ID: abhinavkumar130503 [at] gmail [dot] com
 
 #### <b>Updates</b>
