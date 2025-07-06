@@ -25,3 +25,12 @@ markdown: kramdown
 gems:
   - jekyll-seo-tag
   - jekyll-redirect-from
+
+# Default Open Graph image for social sharing
+image: /assets/profile.jpg
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/profile.jpg
