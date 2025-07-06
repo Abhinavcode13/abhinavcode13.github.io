@@ -18,8 +18,9 @@ Email ID: abhinavkumar130503 [at] gmail [dot] com
 <col width="100px">
 <col width="650px">
 <tr><td><b>July 2025:</b></td><td>Started working as an Applications Developer - 1 at <a href='https://www.oracle.com/'>Oracle (OFSS)</a>.</td></tr>
+<tr><td><b>May 2025:</b></td><td>Started working as a Google Summer of Code Mentor @ <a href='https://mifos.org/'>Mifos Initiative</a> for Mifos Gazelle projects.</td></tr>
 <tr><td><b>Jan 2025:</b></td><td>Started working as a Software Quality Assurance Intern at <a href='https://altair.com/'>Altair</a>.</td></tr>
-<tr><td><b>June 2024:</b></td><td>Started working as a C4GT '24 contributor at the <a href='https://mifos.org/'>Mifos Initiative</a>.</td></tr>
+<tr><td><b>June 2024:</b></td><td>Started working as a Software Intern at the <a href='https://mifos.org/'>Mifos Initiative</a>.</td></tr>
 <tr><td><b>Feb 2024:</b></td><td>Started working on LLM Action Response Reasoning as a Research & Development Intern at <a href='https://research.samsung.com/sri-b'>Samsung R&D Institute India</a>.</td></tr>
 </table>
 </div>
