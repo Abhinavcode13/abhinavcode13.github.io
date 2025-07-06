@@ -8,6 +8,14 @@ layout: page
 
 Hello, I am Abhinav Kumar. I'm a graduate from [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), with a degree in computer science and engineering. Nowadays, learning microservices and go.
 
+I have been actively involved in the open source community through the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) program. As part of my contributions to the [Mifos Initiative](https://mifos.org/), I have helped develop the [Mifos Gazelle Runtime Demo](https://github.com/openMF/mifos-gazelle-demo-runtime) and contributed to [Mifos Gazelle](https://github.com/openMF/mifos-gazelle). During my time as a Software Intern at Mifos, I also worked on reducing the memory footprint of Mifos Gazelle, making it more efficient and scalable.
+
+*I have contributed to open source projects like* <a href="https://github.com/kagent-dev/kagent">Kagent</a>, <a href="https://github.com/stan-smith/fossflow-lib">Fossflow-lib</a>, <a href="https://github.com/karmada-io/karmada">Karmada</a> and <a href="https://github.com/opencost/opencost-website">Opencost (by IBM)</a>.
+
+*I also did some fun internships at* <a href="https://research.samsung.com/sri-b"><b>Samsung R&D</b></a> <i>(Summer 2024)</i> *and* <a href="https://mifos.org/"><b>Mifos</b></a> <i>(Fall 2025)</i>.
+
+*I also blog every now and then compiling my personal experiences.* You can read my blog <a href="/archive/">here</a>.
+
 [CV / Resume]({{ site.url }}/assets/cv1.pdf)
 Email ID: abhinavkumar130503 [at] gmail [dot] com
 
