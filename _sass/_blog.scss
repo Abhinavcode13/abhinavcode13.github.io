@@ -1,0 +1,84 @@
+// Blog-specific styles
+.post-preview {
+  margin-bottom: 2rem;
+  
+  h2 {
+    margin-bottom: 0.5rem;
+    
+    a {
+      color: $text-color;
+      text-decoration: none;
+      
+      &:hover {
+        color: $brand-color;
+      }
+    }
+  }
+  
+  .post-meta {
+    color: $grey-color;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post-tags {
+    margin-bottom: 1rem;
+    
+    .tag {
+      background-color: $grey-color-light;
+      padding: 0.2rem 0.5rem;
+      border-radius: 3px;
+      font-size: 0.8rem;
+      margin-right: 0.5rem;
+    }
+  }
+  
+  .post-excerpt {
+    color: $grey-color-dark;
+    line-height: 1.6;
+  }
+}
+
+// Post content styling
+.post {
+  .post-header {
+    margin-bottom: 2rem;
+    
+    .post-title {
+      margin-bottom: 0.5rem;
+    }
+    
+    .post-meta {
+      color: $grey-color;
+      font-size: 0.9rem;
+    }
+  }
+  
+  .post-content {
+    line-height: 1.7;
+    
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    
+    p {
+      margin-bottom: 1.5rem;
+    }
+    
+    code {
+      background-color: $grey-color-light;
+      padding: 0.2rem 0.4rem;
+      border-radius: 3px;
+      font-size: 0.9rem;
+    }
+    
+    pre {
+      background-color: $grey-color-light;
+      padding: 1rem;
+      border-radius: 5px;
+      overflow-x: auto;
+      margin-bottom: 1.5rem;
+    }
+  }
+} 
