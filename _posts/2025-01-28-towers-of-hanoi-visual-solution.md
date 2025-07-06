@@ -8,7 +8,7 @@ tags: [towers-of-hanoi, recursion, visualization, haskell]
 comments: true
 ---
 
-Ever wondered what the Towers of Hanoi puzzle looks like when solved step by step? I found this cool Haskell code that shows the solution as pictures. It's really neat to watch the disks move around!
+Ever wondered what the [Towers of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle looks like when solved step by step? I found this cool Haskell code that shows the solution as pictures. It's really neat to watch the disks move around!
 
 The Towers of Hanoi is that old puzzle with three pegs and some disks of different sizes. You have to move all disks from the left peg to the right peg, but you can only move one disk at a time and you can never put a bigger disk on top of a smaller one.
 
