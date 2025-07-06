@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drawing Tangent & Normal Vectors with Diagrams"
+title: "Making Sense of Curves: Drawing Tangents and Normals with Diagrams Library"
 date: 2025-07-06
 author: Abhinav Kumar
 categories: [mathematics, haskell, diagrams]
