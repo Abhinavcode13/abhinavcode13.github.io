@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Solution to the Classic Towers of Hanoi Puzzle"
+title: "When Disks Dance: Visualizing Hanoi’s Puzzle in Haskell"
 date: 2025-01-28
 author: Abhinav Kumar
 categories: [algorithms, haskell, diagrams, puzzles]
