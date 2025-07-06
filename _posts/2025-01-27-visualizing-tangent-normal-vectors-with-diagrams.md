@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Drawing Tangent & Normal Vectors with Diagrams"
-date: 2025-01-27
+date: 2025-07-06
 author: Abhinav Kumar
 categories: [mathematics, haskell, diagrams]
 tags: [tangent, normal, vectors, curves]
 comments: true
 ---
 
-Drawing *tangent* and *normal* vectors on curves helps understand how curves behave. The [Diagrams library](https://diagrams.github.io/) in Haskell makes this easy. Based on [Pontus Granström's example](https://diagrams.github.io/gallery/Tangent.html), here's how to do it.
+Drawing *tangent* and *normal* vectors on curves helps understand how curves behave. The [Diagrams library](https://diagrams.github.io/) in Haskell makes this easy. Based on [Pontus Granström's example](https://photon-ray.xyz/diagramatics-site/examples/), here's how to do it.
 
 First, import the libraries:
 
@@ -66,7 +66,7 @@ Seeing math as pictures makes it much easier to understand than staring at equat
 
 You could animate the vectors to show how they change as you move along the curve. Another idea is to display vectors at several points at once. You might also add curvature circles to show how sharply the curve bends.
 
-Check out the [Diagrams docs](https://diagrams.github.io/) for more examples. The [original example](https://diagrams.github.io/gallery/Tangent.html) by Pontus Granström shows this code in action. Learn more about [Haskell](https://www.haskell.org/) to write your own diagrams.
+Check out the [Diagrams docs](https://diagrams.github.io/) for more examples. The [original example](https://diagrams.github.io/gallery/Tangent.html) by <a href="https://x.com/pnutus" target="_blank">Pontus Granström</a> shows this code in action. Learn more about [Haskell](https://www.haskell.org/) to write your own diagrams.
 
 ![Tangent and Normal Vectors on a Curve]({{ site.url }}/assets/tangent-curve.png)
 
