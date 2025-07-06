@@ -6,7 +6,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.jpg">
 
-Hello, I am Abhinav Kumar. I'm a graduate from [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), with a degree in computer science and engineering. Nowadays, learning microservices and go.
+I am Abhinav Kumar. I'm a graduate from [BMS College of Engineering in Bangalore](https://www.bmsce.ac.in/), with a degree in computer science and engineering. Nowadays, learning microservices and go.
 
 I have been actively involved in the open source community through the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) program. As part of my contributions to the [Mifos Initiative](https://mifos.org/), I have helped develop the [Mifos Gazelle Runtime Demo](https://github.com/openMF/mifos-gazelle-demo-runtime) and contributed to [Mifos Gazelle](https://github.com/openMF/mifos-gazelle). During my time as a Software Intern at Mifos, I also worked on reducing the memory footprint of Mifos Gazelle, making it more efficient and scalable.
 
